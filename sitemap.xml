@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/</loc>
+    <lastmod>2026-01-07</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#cars</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#about</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#services</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#testimonials</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#blog</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://bismafarhab.github.io/elite-motors/#contact</loc>
+    <priority>0.90</priority>
+  </url>
+
+</urlset>
